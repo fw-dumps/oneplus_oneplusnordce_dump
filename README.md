@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201217.002 2107220033 release-keys
+- manufacturer: 
+- platform: lito
+- codename: OnePlusNordCE
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201217.002
+- incremental: 2107220033
+- tags: release-keys
+- fingerprint: OnePlus/OnePlusNordCE/OnePlusNordCE:11/RKQ1.201217.002/2107220033:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: qssi-user-11-RKQ1.201217.002-2107220033-release-keys
+- repo: oneplus_oneplusnordce_dump
